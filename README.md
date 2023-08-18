@@ -27,6 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rsuthar0141/rsuthar0141/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
